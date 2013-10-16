@@ -1,4 +1,6 @@
-object HelloWorld {
+package com.shippable
+
+class HelloWorld {
    def main(args: Array[String]) {
       println("Hello, world!")
       println(square(10))
