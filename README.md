@@ -1,6 +1,4 @@
-Scala-buildsample
+Scala Sample
 =================
 
-Build sample for Scala
-
-Note: This sample does not produce coverage output.
+Build sample for Scala using JUnit for unit tests and Scoverage for code coverage.
