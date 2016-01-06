@@ -2,6 +2,9 @@ language: scala
 
 scala:
     - 2.11.0
+    - 2.11.6
+    - 2.10.5
+    - 2.9.3
 
 script:
   - export SBT_OPTS="-XX:+CMSClassUnloadingEnabled -XX:PermSize=256M -XX:MaxPermSize=512M"
